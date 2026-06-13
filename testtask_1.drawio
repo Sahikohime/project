@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="6SsGZVheudZXkR8IryFw">
-    <mxGraphModel dx="2180" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2576" dy="2151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,10 +47,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VbR1kJbd4s5ipAbFhgMN-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="125" y="-240" as="geometry" />
+          <mxGeometry height="40" width="40" x="127.5" y="-220" as="geometry" />
         </mxCell>
         <mxCell id="VbR1kJbd4s5ipAbFhgMN-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font&gt;Возникновение необходимости в оборудовании&lt;/font&gt;" vertex="1">
-          <mxGeometry height="50" width="110" x="90" y="-205" as="geometry" />
+          <mxGeometry height="50" width="110" x="90" y="-265" as="geometry" />
         </mxCell>
         <mxCell id="VbR1kJbd4s5ipAbFhgMN-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="260" y="45.000000000000114" as="geometry" />
@@ -64,25 +64,28 @@
         <mxCell id="VbR1kJbd4s5ipAbFhgMN-21" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(241, 156, 153));&quot;&gt;Неточность&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Автоматически ли присваивается номер обращения, и каким способом пользователь его получает. Как регистрируется заявка, руками 1-й линии или автоматически&lt;/p&gt;" vertex="1">
           <mxGeometry height="150" width="180" x="200" y="-475" as="geometry" />
         </mxCell>
+        <mxCell id="VbR1kJbd4s5ipAbFhgMN-117" edge="1" parent="1" source="VbR1kJbd4s5ipAbFhgMN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VbR1kJbd4s5ipAbFhgMN-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VbR1kJbd4s5ipAbFhgMN-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="415" y="-239.9999999999999" as="geometry" />
+          <mxGeometry height="40" width="40" x="417.5" y="-219.9999999999999" as="geometry" />
         </mxCell>
         <mxCell id="VbR1kJbd4s5ipAbFhgMN-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Получение номера обращения для отслеживания" vertex="1">
-          <mxGeometry height="30" width="130" x="370" y="-195" as="geometry" />
+          <mxGeometry height="30" width="130" x="372.5" y="-260" as="geometry" />
         </mxCell>
         <mxCell id="VbR1kJbd4s5ipAbFhgMN-25" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(241, 156, 153));&quot;&gt;Неточность&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Каким образом пользователь может использовать номер обращения для отслеживания статуса? БП по обратной связи пользователю не освещен&lt;/p&gt;" vertex="1">
           <mxGeometry height="145" width="170" x="390" y="-475" as="geometry" />
         </mxCell>
         <mxCell id="VbR1kJbd4s5ipAbFhgMN-26" edge="1" parent="1" source="VbR1kJbd4s5ipAbFhgMN-11" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VbR1kJbd4s5ipAbFhgMN-37" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="160.00000000000352" y="-19.5" as="sourcePoint" />
-            <mxPoint x="220" y="-20" as="targetPoint" />
+            <mxPoint x="162.50000000000352" y="0.5" as="sourcePoint" />
+            <mxPoint x="222.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VbR1kJbd4s5ipAbFhgMN-27" edge="1" parent="1" source="VbR1kJbd4s5ipAbFhgMN-37" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VbR1kJbd4s5ipAbFhgMN-23" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="340" y="-20" as="sourcePoint" />
-            <mxPoint x="450" y="5" as="targetPoint" />
+            <mxPoint x="342.5" as="sourcePoint" />
+            <mxPoint x="452.5" y="25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VbR1kJbd4s5ipAbFhgMN-28" edge="1" parent="1" source="VbR1kJbd4s5ipAbFhgMN-37" style="endArrow=classic;html=1;rounded=0;exitX=0.455;exitY=0.976;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" target="VbR1kJbd4s5ipAbFhgMN-16" value="">
@@ -116,10 +119,10 @@
           <mxGeometry height="60" width="120" x="495" y="35" as="geometry" />
         </mxCell>
         <mxCell id="VbR1kJbd4s5ipAbFhgMN-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Обратиться в техподдержку&lt;div&gt;(по телефону/ email)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="225" y="-250" as="geometry" />
+          <mxGeometry height="60" width="120" x="227.5" y="-230" as="geometry" />
         </mxCell>
         <mxCell id="VbR1kJbd4s5ipAbFhgMN-38" parent="1" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="" vertex="1">
-          <mxGeometry height="10" width="20" x="225" y="-250" as="geometry" />
+          <mxGeometry height="10" width="20" x="227.5" y="-230" as="geometry" />
         </mxCell>
         <mxCell id="VbR1kJbd4s5ipAbFhgMN-41" parent="1" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="" vertex="1">
           <mxGeometry height="10" width="20" x="495" y="35" as="geometry" />
@@ -351,6 +354,20 @@
         </mxCell>
         <mxCell id="VbR1kJbd4s5ipAbFhgMN-111" parent="1" style="shape=cross;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="2360" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="VbR1kJbd4s5ipAbFhgMN-118" edge="1" parent="1" source="VbR1kJbd4s5ipAbFhgMN-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="VbR1kJbd4s5ipAbFhgMN-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1313" y="-195" />
+            </Array>
+            <mxPoint x="2300" y="-219.9230769230769" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VbR1kJbd4s5ipAbFhgMN-116" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="1272.5" y="-220" as="geometry" />
+        </mxCell>
+        <mxCell id="VbR1kJbd4s5ipAbFhgMN-119" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ожидание поставки оборудования" vertex="1">
+          <mxGeometry height="30" width="60" x="1262.5" y="-270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

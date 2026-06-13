@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="6SsGZVheudZXkR8IryFw">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ya4lB5T6emN3ZDg_C6RV-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ya4lB5T6emN3ZDg_C6RV-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ya4lB5T6emN3ZDg_C6RV-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="Пользователь" vertex="1">
+          <mxGeometry height="30" width="60" x="-10" y="45" as="geometry" />
+        </mxCell>
+        <mxCell id="Ya4lB5T6emN3ZDg_C6RV-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="Компания Х" vertex="1">
+          <mxGeometry height="30" width="80" x="-20" y="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

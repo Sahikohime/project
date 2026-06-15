@@ -99,12 +99,11 @@
         <mxCell id="Gdi8o8TUlqVirX3bWkUd-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Проверка карточки на соответствие требованиям сервиса" vertex="1">
           <mxGeometry height="60" width="120" x="80" y="-225" as="geometry" />
         </mxCell>
-        <mxCell id="Gdi8o8TUlqVirX3bWkUd-51" edge="1" parent="1" source="Gdi8o8TUlqVirX3bWkUd-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
+        <mxCell id="Gdi8o8TUlqVirX3bWkUd-51" edge="1" parent="1" source="PaO1Qy7Af-6XjJVU2j9O-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="-290" />
+              <mxPoint x="605" y="-290" />
               <mxPoint x="-620" y="-290" />
-              <mxPoint x="-620" y="-30" />
             </Array>
             <mxPoint x="500" y="-290" as="sourcePoint" />
             <mxPoint x="-620" y="-30" as="targetPoint" />
@@ -159,14 +158,11 @@
         <mxCell id="Gdi8o8TUlqVirX3bWkUd-61" parent="1" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
           <mxGeometry height="40" width="40" x="982.5" y="-20" as="geometry" />
         </mxCell>
-        <mxCell id="Gdi8o8TUlqVirX3bWkUd-68" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Gdi8o8TUlqVirX3bWkUd-69">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="562.5" y="-245" as="sourcePoint" />
-            <mxPoint x="732.5" y="-200" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="PaO1Qy7Af-6XjJVU2j9O-4" edge="1" parent="1" source="Gdi8o8TUlqVirX3bWkUd-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="PaO1Qy7Af-6XjJVU2j9O-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gdi8o8TUlqVirX3bWkUd-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Отказ в публикации карточки. Смена статуса на &quot;Черновик&quot;" vertex="1">
-          <mxGeometry height="60" width="120" x="440" y="-275" as="geometry" />
+          <mxGeometry height="60" width="120" x="397.5" y="-275" as="geometry" />
         </mxCell>
         <mxCell id="Gdi8o8TUlqVirX3bWkUd-71" edge="1" parent="1" source="Gdi8o8TUlqVirX3bWkUd-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Gdi8o8TUlqVirX3bWkUd-58">
           <mxGeometry relative="1" as="geometry" />
@@ -176,6 +172,15 @@
         </mxCell>
         <mxCell id="Gdi8o8TUlqVirX3bWkUd-70" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" value="" vertex="1">
           <mxGeometry height="25" width="25" x="655" y="-212.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PaO1Qy7Af-6XjJVU2j9O-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="580" y="-270" as="geometry" />
+        </mxCell>
+        <mxCell id="PaO1Qy7Af-6XjJVU2j9O-5" edge="1" parent="1" source="PaO1Qy7Af-6XjJVU2j9O-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Gdi8o8TUlqVirX3bWkUd-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PaO1Qy7Af-6XjJVU2j9O-3" parent="1" style="shape=cross;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="585" y="-265" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
